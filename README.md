@@ -8,7 +8,7 @@ https://leetcode.com/na1alink/
 
 - 🌱  В настоящее время я изучаю HTML, CSS, JavaScript
 - 📫 Как со мной связаться через почту: na1alink@yandex.ru
-- https://leetcode.com/na1alink/
+
 
 
 <!--https://github.com/daniilshat/daniilshat/blob/main/README.md-->

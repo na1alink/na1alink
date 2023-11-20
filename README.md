@@ -23,7 +23,6 @@ https://leetcode.com/na1alink/
 
 
 ### :woman_technologist: Обо мне :
-
 - :seedling:  В настоящее время я изучаю курс на skillbox на этапе JavaScript/ React
 - :email: Как со мной связаться: na1alink@yandex.ru
 

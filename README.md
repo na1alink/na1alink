@@ -6,7 +6,7 @@
   <h1>Привет, меня зовут Наташа
     <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
   </h1>
-  <a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=000000&background=447BFF00&width=435&lines=%D0%98+%D1%8F+%D0%BD%D0%B0%D1%87%D0%B8%D0%BD%D0%B0%D1%8E%D1%89%D0%B8%D0%B9+front-end+developer" alt="Typing SVG" /></a>
+  <a align="center" href="https://git.io/typing-svg"><img style="color:white" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=000000&background=447BFF00&width=435&lines=%D0%98+%D1%8F+%D0%BD%D0%B0%D1%87%D0%B8%D0%BD%D0%B0%D1%8E%D1%89%D0%B8%D0%B9+front-end+developer" alt="Typing SVG" /></a>
 </div>
 
 <div align="center">

@@ -13,8 +13,7 @@
 </div>
 
 
-[![codewars](https://www.codewars.com/users/na1alink/badges/small)](https://www.codewars.com/users/na1alink)  
-https://leetcode.com/na1alink/
+
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
@@ -27,6 +26,7 @@ https://leetcode.com/na1alink/
 Я начинающий Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> из Екатеринбурга.
 - :seedling:  В настоящее время я изучаю курс на skillbox на этапе JavaScript/ React
 - :email: Как со мной связаться: na1alink@yandex.ru
+- В свободное время я решаю задачи на ![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey) ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
 
 ---
 

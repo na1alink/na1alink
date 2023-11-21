@@ -3,9 +3,7 @@
 </div>
 
 <div align="center">
-  <h1>Привет, меня зовут Наташа
-    <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
-  </h1>
+  <h1>Привет, меня зовут Наташа</h1>
 </div>
 
 <div align="center">
